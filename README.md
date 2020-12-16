@@ -4,6 +4,12 @@
 
 Está api foi criada para consultar cep's
 
+Tecnologias:
+* NodeJs
+* Axios
+* Express
+* Nodemon
+* Git
 ## Instalação
 
 Requesitos
